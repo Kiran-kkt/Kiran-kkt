@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Kiran-kkt/Kiran-kkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran--Krishna--Tunuguntla-grey?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kiran-krishna-t-6a5a256b/)
+[![Xing](https://img.shields.io/badge/Xing-Kiran--Krishna--Tunuguntla-grey?style=flat&logo=Xing&labelColor=green)](https://www.xing.com/profile/KiranKrishna_Tunuguntla/cv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Hi there 👋
+
+- :speech_balloon: An enthusiastic coder with a constant desire to learn and hone pragmatic skills.
+- :telescope:, :seedling: I’m currently working on cpp remote development.
+- :office: Polytech Wind Power Technology GmbH.
+- :mailbox: k.kiran73@gmail.com

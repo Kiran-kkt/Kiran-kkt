@@ -11,5 +11,5 @@
 
 - :speech_balloon: An enthusiastic coder with a constant desire to learn and hone pragmatic skills.
 - :telescope:, :seedling: I’m currently working on cpp remote development.
-- :office: Polytech Wind Power Technology GmbH.
+- :office: Charge-V GmbH.
 - :mailbox: k.kiran73@gmail.com
